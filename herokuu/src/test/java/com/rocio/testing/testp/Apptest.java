@@ -19,7 +19,7 @@ public class Apptest {
 	@Test
 	public void test() {
 		//fail("Not yet implemented")
-		int expected = 5;
+		int expected = 4;
 		assertEquals(expected, suma.suma2(2, 2));
 	}
 	}
